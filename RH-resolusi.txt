@@ -3,3 +3,4 @@ RH resolusi :
 - Belajar JS
 - Project baru
 - Belajar app mobile
+- Guru baru
