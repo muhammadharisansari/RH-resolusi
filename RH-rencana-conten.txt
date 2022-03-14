@@ -3,9 +3,11 @@ Rencana Konten :
 -JS
   *ES6
   *react
-  ^ integrasi angular
-  ^ integrasi vue 
+  ^ mobile
+  ^ web
+-tailwinds  
 -FR
 ^ Laravel
 -Flutter
 -Doc
+-pyton
