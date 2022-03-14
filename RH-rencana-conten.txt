@@ -3,7 +3,11 @@ Rencana Konten :
 -JS
   *ES6
   *react
+  ^ mobile
+  ^ web
 -tailwinds  
 -FR
+^ Laravel
 -Flutter
 -Doc
+-pyton
