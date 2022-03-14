@@ -3,6 +3,7 @@ Rencana Konten :
 -JS
   *ES6
   *react
+-tailwinds  
 -FR
 -Flutter
 -Doc
