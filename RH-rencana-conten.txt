@@ -4,6 +4,7 @@ Rencana Konten :
   *ES6
   *react
   ^ mobile
+  ^ web
 -tailwinds  
 -FR
 ^ Laravel
